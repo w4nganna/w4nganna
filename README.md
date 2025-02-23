@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Anna, an Industrial engineering student at University of Toronto with a passion for improving system and enhancing user experiences. 
+I am Anna, an Industrial engineering student with a passion for using analytics to enhance user experiences. 
 
 <!--
 **w4nganna/w4nganna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
