@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Anna, an Industrial engineering student at University of Toronto with a passion for improving system and enhancing user experiences. 
+
 <!--
 **w4nganna/w4nganna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
