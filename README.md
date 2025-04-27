@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi Everyone!
 
-I am Anna, currently studying Industrial engineering + pey co-op at University of Toronto. If you have any questions feel free to reach out :)
+I am Anna, currently studying Industrial engineering + pey co-op at University of Toronto. I enjoy solving complex problems, the more complex the better. If you have any questions feel free to reach out:)
 
 <!--
 **w4nganna/w4nganna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
